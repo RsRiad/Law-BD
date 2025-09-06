@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/G4MfqN73/image.png",
+    "name": "Adv. Foysal Munsy",
+    "speciality": "Criminal Law",
+    "experience": "14+ years",
+    "licenseNumber": "BD-2020-001",
+    "consultationFee": 800,
+    "availability": ["Sunday", "Tuesday", "Thursday"]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/bMCMtCy3/image.png",
+    "name": "Adv. Lamya Alif",
+    "speciality": "Family Law",
+    "experience": "12+ years",
+    "licenseNumber": "BD-2019-045",
+    "consultationFee": 700,
+    "availability": ["Monday", "Wednesday", "Saturday"]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/6FRHmG4/VMW4i-H1-HTU.jpg",
+    "name": "Adv. Md. Rawha Siddiqi Riad",
+    "speciality": "Corporate Law",
+    "experience": "15+ years",
+    "licenseNumber": "BD-2017-102",
+    "consultationFee": 1000,
+    "availability": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/TMskNmBs/image.png",
+    "name": "Adv. Sumaiya Afrin",
+    "speciality": "Civil Litigation",
+    "experience": "9+ years",
+    "licenseNumber": "BD-2018-076",
+    "consultationFee": 600,
+    "availability": ["Monday", "Thursday"]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/G4MfqN73/image.png",
+    "name": "Adv. Tanvir Ahmed",
+    "speciality": "Tax Law",
+    "experience": "11+ years",
+    "licenseNumber": "BD-2016-120",
+    "consultationFee": 850,
+    "availability": ["Tuesday", "Friday"]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/6cF89B24/image.png",
+    "name": "Adv. Raian Tasnim Saoda",
+    "speciality": "Immigration Law",
+    "experience": "8+ years",
+    "licenseNumber": "BD-2021-065",
+    "consultationFee": 750,
+    "availability": ["Sunday", "Wednesday"]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/gbdbR5Xf/image.png",
+    "name": "Adv. Rezaul Karim",
+    "speciality": "Land & Property Law",
+    "experience": "13+ years",
+    "licenseNumber": "BD-2015-037",
+    "consultationFee": 900,
+    "availability": ["Monday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/fYBMsCqT/image.png",
+    "name": "Adv. Momena Sultana",
+    "speciality": "Human Rights Law",
+    "experience": "10+ years",
+    "licenseNumber": "BD-2018-089",
+    "consultationFee": 650,
+    "availability": ["Sunday", "Tuesday"]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/gbdbR5Xf/image.png",
+    "name": "Adv. Iftekhar Chowdhury",
+    "speciality": "International Law",
+    "experience": "16+ years",
+    "licenseNumber": "BD-2012-013",
+    "consultationFee": 1200,
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/kRkVpj2/image.png",
+    "name": "Adv. Ronjida Akter Rithi",
+    "speciality": "Labor & Employment Law",
+    "experience": "7+ years",
+    "licenseNumber": "BD-2022-099",
+    "consultationFee": 550,
+    "availability": ["Tuesday", "Thursday"]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/gbdbR5Xf/image.png",
+    "name": "Adv. Shahinur Rahman",
+    "speciality": "Constitutional Law",
+    "experience": "18+ years",
+    "licenseNumber": "BD-2010-022",
+    "consultationFee": 1100,
+    "availability": ["Sunday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/fYBMsCqT/image.png",
+    "name": "Adv. Tasnim Ferdous",
+    "speciality": "Environmental Law",
+    "experience": "6+ years",
+    "licenseNumber": "BD-2023-032",
+    "consultationFee": 500,
+    "availability": ["Monday", "Saturday"]
+  }
+]
